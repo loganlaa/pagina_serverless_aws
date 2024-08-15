@@ -49,5 +49,10 @@
 
 ### 6. Adicionar a página na Bucket do S3
 
+## RESULTADO
+![Captura de tela 2024-08-15 152610](https://github.com/user-attachments/assets/de222fe9-6af7-44d4-8795-479fab223db6)
+
+![Captura de tela 2024-08-15 152631](https://github.com/user-attachments/assets/312f6b7b-a2ed-44e4-bf18-a74c90336329)
+
 
     
